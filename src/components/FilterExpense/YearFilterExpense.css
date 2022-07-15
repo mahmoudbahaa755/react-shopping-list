@@ -1,0 +1,7 @@
+.filter-year{
+    display: flex;
+    justify-content: space-evenly;
+}
+label{
+    color: whitesmoke;
+}
